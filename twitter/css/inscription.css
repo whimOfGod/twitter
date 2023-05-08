@@ -1,0 +1,19 @@
+.suscribBody {
+    grid-template-columns: inherit;
+    
+}
+
+.suscribBody > * {
+    min-height: inherit;
+}
+
+.suscribMain {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vw;
+    height: 25vw;
+}
+
+.titleFormular {
+    text-align: center;
+}
